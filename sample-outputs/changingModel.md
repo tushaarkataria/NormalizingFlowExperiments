@@ -12,7 +12,7 @@ Number of flows 6 , Number of samples 100, noise =0.01
 ![](../allOutputs/twomoons/actrelu/nS5/nT5/interDim256/inputS100/inputN0.01/nof6/image.png)
 
 ## Circle
-Activation Relu, Number of samples 100, noise =0.01
+Number of flows 6 , Number of samples 100, noise =0.01
 
 ### 2 intermediate layers
 ![](../allOutputs/circles/actrelu/nS1/nT1/interDim256/inputS100/inputN0.01/nof6/image.png)
@@ -22,7 +22,7 @@ Activation Relu, Number of samples 100, noise =0.01
 ![](../allOutputs/circles/actrelu/nS5/nT5/interDim256/inputS100/inputN0.01/nof6/image.png)
 
 ## Spiral 2
-Activation Leaky Relu, Number of samples 100, noise =0.01
+Number of flows 6 , Number of samples 100, noise =0.01
 
 ### 2 intermediate layers
 ![](../allOutputs/circles/actrelu/nS1/nT1/interDim256/inputS100/inputN0.01/nof6/image.png)
@@ -32,7 +32,7 @@ Activation Leaky Relu, Number of samples 100, noise =0.01
 ![](../allOutputs/circles/actrelu/nS5/nT5/interDim256/inputS100/inputN0.01/nof6/image.png)
 
 ## Spiral 4
-Activation Relu, Number of samples 100, noise =0.01
+Activation Leaky Relu, Number of samples 100, noise =0.01
 
 ### 2 intermediate layers
 ![](../allOutputs/circles/actrelu/nS1/nT1/interDim256/inputS100/inputN0.01/nof6/image.png)
