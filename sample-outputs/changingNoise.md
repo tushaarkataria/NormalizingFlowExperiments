@@ -5,7 +5,7 @@
 Number of flows 9 , act relu, 2 intermeditate layers
 
 ### Noise = 0.01
-![](../allOutputs/twomoons/actrelu/nS1/nT1/interDim256/inputS200/inputN0.01/nof9/image.png
+![](../allOutputs/twomoons/actrelu/nS1/nT1/interDim256/inputS200/inputN0.01/nof9/image.png)
 ### Noise = 0.05
 ![](../allOutputs/twomoons/actrelu/nS1/nT1/interDim256/inputS200/inputN0.05/nof9/image.png)
 
