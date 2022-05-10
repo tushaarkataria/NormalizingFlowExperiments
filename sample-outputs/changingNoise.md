@@ -2,20 +2,20 @@
 
 ## Two Moon
 
-Number of flows 9 , act relu, 2 intermeditate layers
+Number of flows 6 , act relu, 2 intermeditate layers
 
 ### Noise = 0.01
-![](../allOutputs/twomoons/actrelu/nS1/nT1/interDim256/inputS200/inputN0.01/nof9/image.png)
+![](../allOutputs/twomoons/actrelu/nS1/nT1/interDim256/inputS200/inputN0.01/nof6/image.png)
 ### Noise = 0.05
-![](../allOutputs/twomoons/actrelu/nS1/nT1/interDim256/inputS200/inputN0.05/nof9/image.png)
+![](../allOutputs/twomoons/actrelu/nS1/nT1/interDim256/inputS200/inputN0.05/nof6/image.png)
 
 ## Circle
-Number of flows 9 , act relu, 2 intermeditate layers
+Number of flows 12 , act relu, 2 intermeditate layers
 
 ### Noise = 0.01
-![](../allOutputs/circles/actrelu/nS1/nT1/interDim256/inputS200/inputN0.01/nof9/image.png)
+![](../allOutputs/circles/actrelu/nS1/nT1/interDim256/inputS200/inputN0.01/nof12/image.png)
 ### Noise = 0.05
-![](../allOutputs/circles/actrelu/nS1/nT1/interDim256/inputS200/inputN0.05/nof9/image.png)
+![](../allOutputs/circles/actrelu/nS1/nT1/interDim256/inputS200/inputN0.05/nof12/image.png)
 
 ## Spiral 2
 Number of flows 9 , act relu, 2 intermeditate layers
