@@ -4,7 +4,7 @@
 
 Activation Relu, Number of samples 100, noise =0.01
 
-![3 Normalizing flows](../allOutputs/twomoons/actrelu/nS1/nT1/interDim256/inputS100/inputN0.01/nof3/image.png)
+![3 Normalizing flows](../allOutputs/twomoons/actrelu/nS1/nT1/interDim256/inputS100/inputN0.01/nof3/image.png "3 Normalizing flows")
 *3 Normalizing flows*
 ![6 Normalizing flows](../allOutputs/twomoons/actrelu/nS1/nT1/interDim256/inputS100/inputN0.01/nof6/image.png)
 *6 Normalizing flows*
